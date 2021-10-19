@@ -1,0 +1,39 @@
+
+.add-form {
+    .btn-primary {
+        border-radius: inherit;
+        float: right;
+    }
+}
+.modal-content {
+    padding: 20px;
+}
+.row {
+    margin-bottom: 15px;
+}
+.btn-sm {
+    border-radius: 0 !important;
+    margin-right: 10px;
+}
+.col-md-3 {
+    padding-right: 0;
+    margin-bottom: 17px;
+}
+.card {
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px #999;
+    .footer_btns {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .name {
+        display: flex;
+        align-items: center;
+        line-height: 30px;
+        .title {
+            width: 40%;
+            font-weight: 600;
+        }
+    }
+}
